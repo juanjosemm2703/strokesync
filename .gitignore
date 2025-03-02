@@ -1,0 +1,9 @@
+build/
+*.log
+.DS_Store
+.dart_tool/
+.idea/
+*.iml
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+
